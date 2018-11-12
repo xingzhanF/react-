@@ -5,7 +5,7 @@ class Index extends React.Component {
     render() {
         return (
             <div>
-                这是首页
+                这是首页1
             </div>
         );
     }
