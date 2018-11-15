@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from "../common/Header";
 import Footer from "../common/Footer"
-import '../../public/css/index.pcss';
+import '../../public/css/shop.pcss';
 
 class Index extends React.Component {
     
@@ -10,7 +10,7 @@ class Index extends React.Component {
             <div className="cont">
                 <Header />
                 <div className="shop">
-                    這裡是首頁
+                    這裡是尚城
                 </div>
                 <Footer />
             </div>
